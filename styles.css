@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+canvas {
+    margin-top: 20px;
+}
